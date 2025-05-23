@@ -1,22 +1,23 @@
-# insta
+ insta_V1
 ______________________________________
 
 
-Steps to create the tool:
+ Steps to create the tool:
 
-sudo apt update
+# sudo apt update
 
+# sudo apt install python3-pip
 
-sudo apt install python3-pip
+# pip3 install instaloader
 
+# git clone https://github.com/mohamedmosamir/insta.git
 
-pip3 install instaloader
 
 ____________________________________
 
 ### Usage:
 
-python3 insta.py
+# python3 insta.py
 
 ____________________________________
 
