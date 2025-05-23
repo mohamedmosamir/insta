@@ -30,3 +30,4 @@ Show you all available information in order on the screen
 The same information is saved in a text file within the same folder
 
 
+![Screenshot From 2025-05-23 23-52-26](https://github.com/user-attachments/assets/c636aa3f-c91a-4a84-94ed-5d02095ca8e2)
